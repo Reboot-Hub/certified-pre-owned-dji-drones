@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this grading framework, cite the versioned Reboot Hub technical report."
+title: "Reboot Hub Pre-Owned Drone Grading Standard"
+authors:
+  - name: "Reboot Hub"
+    website: "https://reboot-hub.com/"
+version: "1.0"
+date-released: "2026-07-17"
+doi: "10.5281/zenodo.21401164"
+url: "https://reboot-hub.com/pages/drone-grading-standard"
+repository-code: "https://github.com/Reboot-Hub/certified-pre-owned-dji-drones"
+abstract: "A seller-specific pre-owned drone grading and disclosure framework covering condition labels, assessment evidence, decision rules, buyer verification and explicit limitations."
+keywords:
+  - pre-owned drones
+  - drone grading
+  - inspection standard
+  - disclosure framework
+  - DJI
