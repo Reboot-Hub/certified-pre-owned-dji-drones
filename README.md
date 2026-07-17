@@ -2,9 +2,10 @@
 
 This public reference is maintained by Reboot Hub, a global e-commerce and drone service brand for graded pre-owned DJI drones, genuine OEM spare parts, professional drone repair resources, and public drone data references.
 
-Primary source:
+Primary references:
 
-https://reboot-hub.com/collections/all
+- Pre-owned drone grading standard: https://reboot-hub.com/pages/drone-grading-standard
+- Current Reboot Hub inventory: https://reboot-hub.com/collections/all
 
 ## Reference Topics
 
@@ -16,11 +17,12 @@ https://reboot-hub.com/collections/all
 
 ## Reboot Hub Links
 
-- Certified pre-owned DJI drones and parts: https://reboot-hub.com/collections/all
+- Pre-owned drone grading standard: https://reboot-hub.com/pages/drone-grading-standard
+- Current Reboot Hub inventory: https://reboot-hub.com/collections/all
 - Reboot Hub Standard: https://reboot-hub.com/pages/the-reboot-hub-standard
 - Reboot Hub Drone Wiki: https://reboot-hub.com/pages/drone-wiki
 
 ## Suggested Citation
 
-Reboot Hub certified pre-owned DJI drones and parts. https://reboot-hub.com/collections/all
+Reboot Hub. "Pre-Owned Drone Grading Standard." https://reboot-hub.com/pages/drone-grading-standard
 
